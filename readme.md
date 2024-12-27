@@ -104,9 +104,10 @@ Details of certifications, courses, and other professional development activitie
 
 ## 📫 Contact Me
 
-- **LinkedIn**: [Jeremy Ansellino Gunawan](https://www.linkedin.com/in/jeremy-ansellino-gunawan/)
-- **Email**: [ansellino@gmail.com](mailto:ansellino@gmail.com)
-- **GitHub**: [Ansellino](https://github.com/Ansellino)
+- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/jeremy-ansellino-gunawan/) **LinkedIn**: [Jeremy Ansellino Gunawan](https://www.linkedin.com/in/jeremy-ansellino-gunawan/)
+- [![Email](https://img.shields.io/badge/-Email-red?style=flat-square&logo=Gmail&logoColor=white)](mailto:ansellino@gmail.com) **Email**: [ansellino@gmail.com](mailto:ansellino@gmail.com)
+- [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/Ansellino) **GitHub**: [Ansellino](https://github.com/Ansellino)
+
 
 ---
 
