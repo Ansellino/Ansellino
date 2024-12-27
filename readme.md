@@ -103,11 +103,11 @@ Comprehensive guides and cheat sheets on topics like:
 
 ## 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/jeremy-ansellino-gunawan/) 
+# [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/jeremy-ansellino-gunawan/) 
 &nbsp;&nbsp;&nbsp;&nbsp;
-[![Email](https://img.shields.io/badge/-Email-red?style=flat-square&logo=Gmail&logoColor=white)](mailto:ansellino@gmail.com) 
+# [![Email](https://img.shields.io/badge/-Email-red?style=flat-square&logo=Gmail&logoColor=white)](mailto:ansellino@gmail.com) 
 &nbsp;&nbsp;&nbsp;&nbsp;
-[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/Ansellino) 
+# [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/Ansellino) 
 
 
 
