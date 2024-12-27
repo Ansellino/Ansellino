@@ -72,8 +72,8 @@ Comprehensive guides and cheat sheets on topics like:
 
 ### 6. **Professional Development**
 
-Details of certifications, courses, and other professional development activities:
 **Check out my certifications and completed courses**: [Google Drive Link](https://drive.google.com/drive/folders/1MtdjsneXUUZTYaxpx0wzS2lirPHcTKk_?usp=sharing)
+
 ---
 
 ## 📊 GitHub Stats
