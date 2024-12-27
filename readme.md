@@ -1,5 +1,3 @@
-# Advanced Portfolio Repository
-
 Welcome to my GitHub Portfolio! This repository is a showcase of my programming journey, featuring a diverse collection of projects, experiments, and resources that reflect my evolving skills and passion for technology.
 
 ## About Me
@@ -74,6 +72,12 @@ A snapshot of technologies and tools I am proficient in:
 - **Frameworks**: React, Flask, Express.js
 - **Databases**: MySQL, MongoDB, PostgreSQL
 - **Tools**: Git, Docker, VS Code
+
+## GitHub Contribution Graph
+
+Here is a visual representation of my GitHub contributions over the past year:
+
+![GitHub Contribution Graph](https://ghchart.rshah.org/Ansellino)
 
 ## GitHub Stats
 ![Ansellino's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ansellino&show_icons=true&theme=radical)
