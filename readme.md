@@ -81,7 +81,8 @@ Details of certifications, courses, and other professional development activitie
 
 ![Ansellino's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ansellino&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ansellino&layout=compact&theme=radical)
-Here is a visual representation of my GitHub contributions over the past year:
+
+**Here is a visual representation of my GitHub contributions over the past year:**
 ![GitHub Contribution Graph](https://ghchart.rshah.org/Ansellino)
 
 ---
