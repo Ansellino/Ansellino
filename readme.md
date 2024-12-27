@@ -73,8 +73,7 @@ Comprehensive guides and cheat sheets on topics like:
 ### 6. **Professional Development**
 
 Details of certifications, courses, and other professional development activities:
-- **Certifications** and **Courses** : https://drive.google.com/drive/folders/1MtdjsneXUUZTYaxpx0wzS2lirPHcTKk_?usp=sharing
-
+**Check out my certifications and completed courses**: [Google Drive Link](https://drive.google.com/drive/folders/1MtdjsneXUUZTYaxpx0wzS2lirPHcTKk_?usp=sharing)
 ---
 
 ## 📊 GitHub Stats
@@ -104,15 +103,13 @@ Details of certifications, courses, and other professional development activitie
 
 ## 📫 Connect With Me
 
-<p align="center">
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/jeremy-ansellino-gunawan/) 
+&nbsp;&nbsp;&nbsp;&nbsp;
+[![Email](https://img.shields.io/badge/-Email-red?style=flat-square&logo=Gmail&logoColor=white)](mailto:ansellino@gmail.com) 
+&nbsp;&nbsp;&nbsp;&nbsp;
+[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/Ansellino) 
 
-   [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/jeremy-ansellino-gunawan/) 
-  &nbsp;&nbsp;&nbsp;&nbsp;
-   [![Email](https://img.shields.io/badge/-Email-red?style=flat-square&logo=Gmail&logoColor=white)](mailto:ansellino@gmail.com) 
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/Ansellino) 
 
-</p>
 
 
 
