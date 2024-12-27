@@ -106,15 +106,15 @@ Details of certifications, courses, and other professional development activitie
 
 <p align="center">
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/jeremy-ansellino-gunawan/">
+  <a href="https://www.linkedin.com/in/jeremy-ansellino-gunawan/" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="50">
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:ansellino@gmail.com">
+  <a href="mailto:ansellino@gmail.com" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height="50">
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/Ansellino">
+  <a href="https://github.com/Ansellino" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" height="50">
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
