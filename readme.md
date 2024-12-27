@@ -102,13 +102,18 @@ Details of certifications, courses, and other professional development activitie
 - **Problem-Solving Expertise**: Solutions to advanced coding challenges on platforms like Codewars and HackerRank.
 - **Collaborative Skills**: Contributions to team projects and open-source initiatives.
 
-## 📫 Contact Me
+## 📫 Connect With Me
 
-- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/jeremy-ansellino-gunawan/) **LinkedIn**: [Jeremy Ansellino Gunawan](https://www.linkedin.com/in/jeremy-ansellino-gunawan/)
-- [![Email](https://img.shields.io/badge/-Email-red?style=flat-square&logo=Gmail&logoColor=white)](mailto:ansellino@gmail.com) **Email**: [ansellino@gmail.com](mailto:ansellino@gmail.com)
-- [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/Ansellino) **GitHub**: [Ansellino](https://github.com/Ansellino)
-
-
----
+<p align="center">
+  <a href="https://www.linkedin.com/in/jeremy-ansellino-gunawan/">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:ansellino@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://github.com/Ansellino">
+    <img src="https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+</p>
 
 Thank you for exploring my portfolio repository. I am excited to connect with you and grow together in this dynamic field!
