@@ -105,19 +105,13 @@ Details of certifications, courses, and other professional development activitie
 ## 📫 Connect With Me
 
 <p align="center">
+
+   [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/jeremy-ansellino-gunawan/) 
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/jeremy-ansellino-gunawan/" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="50">
-  </a>
+   [![Email](https://img.shields.io/badge/-Email-red?style=flat-square&logo=Gmail&logoColor=white)](mailto:ansellino@gmail.com) 
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:ansellino@gmail.com" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height="50">
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/Ansellino" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" height="50">
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
+  [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/Ansellino) 
+
 </p>
 
 
