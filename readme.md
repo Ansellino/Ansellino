@@ -104,17 +104,22 @@ Details of certifications, courses, and other professional development activitie
 
 ## 📫 Connect With Me
 
-<p align="center" style="margin: 50px 0;">
-  <a href="https://www.linkedin.com/in/jeremy-ansellino-gunawan/" style="margin: 0 40px;">
+<p align="center">
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/jeremy-ansellino-gunawan/">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="50">
   </a>
-  <a href="mailto:ansellino@gmail.com" style="margin: 0 40px;">
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:ansellino@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height="50">
   </a>
-  <a href="https://github.com/Ansellino" style="margin: 0 40px;">
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/Ansellino">
     <img src="https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" height="50">
   </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
 </p>
+
 
 
 Thank you for exploring my portfolio repository. I am excited to connect with you and grow together in this dynamic field!
