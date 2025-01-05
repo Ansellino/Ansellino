@@ -20,12 +20,14 @@ Feel free to explore my portfolio and connect with me for feedback, mentorship, 
 
 ## 🛠 Tech Stack
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4EA94B?style=for-the-badge&logo=postgresql&logoColor=white) 
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) 
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
@@ -85,15 +87,6 @@ Comprehensive guides and cheat sheets on topics like:
 ![GitHub Contribution Graph](https://ghchart.rshah.org/Ansellino)
 
 ---
-
-## 🚀 How to Use
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/portfolio.git
-   ```
-2. Browse through the directories to find projects and code samples of interest.
-3. Follow the instructions in project-specific README files to run or test the projects.
 
 ## 🎯 Highlights
 
