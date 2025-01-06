@@ -80,8 +80,8 @@ Comprehensive guides and cheat sheets on topics like:
 
 ## 📊 GitHub Stats
 
-![Ansellino's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ansellino&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ansellino&hide_progress=true&theme=radical)
+![Ansellino's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ansellino&show_icons=true&theme=radica&width=200px&height=200pxl)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ansellino&hide_progress=true&theme=radical&width=200px&height=200px)
 ## 🎯 Highlights
 
 - **Web Development Mastery**: End-to-end projects built with modern frameworks and tools.
