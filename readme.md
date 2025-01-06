@@ -1,55 +1,102 @@
-<h2 align="left">Hi 👋! My name is Ansellino and I'm a Programmer from Indonesia</h2>
+# Welcome to My GitHub Portfolio! 👋
 
-###
+![Profile Views](https://komarev.com/ghpvc/?username=Ansellino&color=blue)
 
-<img align="right" height="240" src="https://i.imgflip.com/9ftuj9.gif" style="border:10px solid black; border-radius:10px; margin-right:10px;" />
+This repository is a comprehensive showcase of my programming journey, featuring a diverse collection of projects, experiments, and resources that reflect my evolving skills and passion for technology.
 
-###
+---
 
-<p align="left">I am a fresh graduate with a master's degree in IT, on a mission to continuously learn and grow in the field of software development. My interests include:<br><br>- 💡 Crafting innovative solutions for real-world problems<br>- 🌐 Experimenting with cutting-edge technologies and frameworks<br>- 🎮 Building and playing immersive games<br><br>Feel free to explore my portfolio and connect with me for feedback, mentorship, or collaboration opportunities.</p>
+## About Me
 
-###
+I am a fresh graduate with a master's degree in IT, on a mission to continuously learn and grow in the field of software development. My interests include:
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="28" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="28" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="28" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="30" alt="googlecloud logo"  />
-  <img width="28" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
-  <img width="28" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="28" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-  <img width="28" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="30" alt="kubernetes logo"  />
-</div>
+- 💡 Crafting innovative solutions for real-world problems
+- 🌐 Experimenting with cutting-edge technologies and frameworks
+- 🎮 Building and playing immersive games
 
-###
+Feel free to explore my portfolio and connect with me for feedback, mentorship, or collaboration opportunities.
 
-<div align="center">
-  <a href="https://www.youtube.com/@ANSELZORRO" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=plastic" height="37" alt="youtube logo"  />
-  </a>
-  <a href="https://www.instagram.com/jeansellino/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=plastic" height="37" alt="instagram logo"  />
-  </a>
-  <a href="mailto:ansellino@gmail.com)" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=plastic" height="37" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/jeremy-ansellino-gunawan/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=plastic" height="37" alt="linkedin logo"  />
-  </a>
-</div>
+---
 
-###
+## 🛠 Tech Stack
 
-<br clear="both">
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4EA94B?style=for-the-badge&logo=postgresql&logoColor=white) 
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) 
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+
+---
+
+## 📂 Repository Structure
+
+The repository is structured to provide a comprehensive view of my skills and experiences:
+
+### 1. **Featured Projects**
+
+Highlighting significant projects that demonstrate my expertise:
+- **Dynamic Web Applications**: Responsive web apps using React, Vue.js, and Node.js.
+- **Data Analysis Pipelines**: Python-based scripts for analyzing datasets and creating visualizations.
+- **Game Development**: Simple games showcasing logic, physics, and user interaction.
+
+### 2. **Open Source Contributions**
+
+A collection of my contributions to open-source projects, featuring:
+- Bug fixes
+- Feature additions
+- Documentation improvements
+
+### 3. **Learning Modules**
+
+Includes well-documented mini-projects and tutorials that focus on:
+- Data structures and algorithms
+- Version control with Git and GitHub
+- Coding best practices and design patterns
+
+### 4. **Experimental Work**
+
+Small-scale experiments and proofs of concept for:
+- Blockchain technology
+- Machine learning models
+- IoT integrations
+
+### 5. **Technical Notes and Documentation**
+
+Comprehensive guides and cheat sheets on topics like:
+- Setting up a full-stack development environment
+- Docker and Kubernetes basics
+- RESTful APIs and GraphQL
+
+### 6. **Professional Development**
+
+**Check out my certifications and completed courses**: [Google Drive Link](https://drive.google.com/drive/folders/1MtdjsneXUUZTYaxpx0wzS2lirPHcTKk_?usp=sharing)
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ansellino&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ansellino&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=radical&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
+
+## 🎯 Highlights
+
+- **Web Development Mastery**: End-to-end projects built with modern frameworks and tools.
+- **Problem-Solving Expertise**: Solutions to advanced coding challenges on platforms like Codewars and HackerRank.
+- **Collaborative Skills**: Contributions to team projects and open-source initiatives.
+
+## 📫 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/jeremy-ansellino-gunawan/) 
+&nbsp;&nbsp;&nbsp;&nbsp;
+[![Email](https://img.shields.io/badge/-Email-red?style=flat-square&logo=Gmail&logoColor=white)](mailto:ansellino@gmail.com) 
+&nbsp;&nbsp;&nbsp;&nbsp;
+[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/Ansellino) 
+
+**Thank you for exploring my portfolio repository. I am excited to connect with you and grow together in this dynamic field!**
