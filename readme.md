@@ -63,4 +63,6 @@ Feel free to explore my portfolio and connect with me for feedback, mentorship, 
   </a>
 </div>
 
+--- 
+
 **Thank you for exploring my portfolio repository. I am excited to connect with you and grow together in this dynamic field!**
