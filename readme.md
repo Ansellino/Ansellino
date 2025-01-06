@@ -81,13 +81,7 @@ Comprehensive guides and cheat sheets on topics like:
 ## 📊 GitHub Stats
 
 ![Ansellino's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ansellino&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ansellino&layout=compact&theme=radical)
-
-**Here is a visual representation of my GitHub contributions over the past year:**
-![GitHub Contribution Graph](https://ghchart.rshah.org/Ansellino)
-
----
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ansellino&hide_progress=true&theme=radical)
 ## 🎯 Highlights
 
 - **Web Development Mastery**: End-to-end projects built with modern frameworks and tools.
