@@ -102,8 +102,4 @@ Comprehensive guides and cheat sheets on topics like:
 &nbsp;&nbsp;&nbsp;&nbsp;
 [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/Ansellino) 
 
-
-
-
-
-Thank you for exploring my portfolio repository. I am excited to connect with you and grow together in this dynamic field!
+**Thank you for exploring my portfolio repository. I am excited to connect with you and grow together in this dynamic field!**
