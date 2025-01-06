@@ -33,51 +33,6 @@ Feel free to explore my portfolio and connect with me for feedback, mentorship, 
 
 ---
 
-## 📂 Repository Structure
-
-The repository is structured to provide a comprehensive view of my skills and experiences:
-
-### 1. **Featured Projects**
-
-Highlighting significant projects that demonstrate my expertise:
-- **Dynamic Web Applications**: Responsive web apps using React, Vue.js, and Node.js.
-- **Data Analysis Pipelines**: Python-based scripts for analyzing datasets and creating visualizations.
-- **Game Development**: Simple games showcasing logic, physics, and user interaction.
-
-### 2. **Open Source Contributions**
-
-A collection of my contributions to open-source projects, featuring:
-- Bug fixes
-- Feature additions
-- Documentation improvements
-
-### 3. **Learning Modules**
-
-Includes well-documented mini-projects and tutorials that focus on:
-- Data structures and algorithms
-- Version control with Git and GitHub
-- Coding best practices and design patterns
-
-### 4. **Experimental Work**
-
-Small-scale experiments and proofs of concept for:
-- Blockchain technology
-- Machine learning models
-- IoT integrations
-
-### 5. **Technical Notes and Documentation**
-
-Comprehensive guides and cheat sheets on topics like:
-- Setting up a full-stack development environment
-- Docker and Kubernetes basics
-- RESTful APIs and GraphQL
-
-### 6. **Professional Development**
-
-**Check out my certifications and completed courses**: [Google Drive Link](https://drive.google.com/drive/folders/1MtdjsneXUUZTYaxpx0wzS2lirPHcTKk_?usp=sharing)
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -93,10 +48,19 @@ Comprehensive guides and cheat sheets on topics like:
 
 ## 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/jeremy-ansellino-gunawan/) 
-&nbsp;&nbsp;&nbsp;&nbsp;
-[![Email](https://img.shields.io/badge/-Email-red?style=flat-square&logo=Gmail&logoColor=white)](mailto:ansellino@gmail.com) 
-&nbsp;&nbsp;&nbsp;&nbsp;
-[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/Ansellino) 
+<div align="center">
+  <a href="https://www.youtube.com/@ANSELZORRO" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=plastic" height="37" alt="youtube logo"  />
+  </a>
+  <a href="https://www.instagram.com/jeansellino/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=plastic" height="37" alt="instagram logo"  />
+  </a>
+  <a href="mailto:ansellino@gmail.com)" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=plastic" height="37" alt="gmail logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/jeremy-ansellino-gunawan/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=plastic" height="37" alt="linkedin logo"  />
+  </a>
+</div>
 
 **Thank you for exploring my portfolio repository. I am excited to connect with you and grow together in this dynamic field!**
