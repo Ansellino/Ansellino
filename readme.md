@@ -13,31 +13,35 @@
 
 _Crafting digital solutions with passion and precision_
 
-[![Spotify](https://novatorem-kyzbk7wxl-bardiesel.vercel.app/api/spotify)](https://open.spotify.com/user/31gms3hlihdvvu6bwlnvzpqqa5ju)
-
 </div>
-
-```typescript
-interface Developer {
-  name: string;
-  role: string;
-  status: string;
-  skills: string[];
-  motto: string;
-}
-
-const me: Developer = {
-  name: "Ansellino",
-  role: "Software Developer",
-  status: "Master's Graduate in IT",
-  skills: ["Web Development", "Problem Solving", "DevOps"],
-  motto: "Code. Create. Innovate.",
-};
-```
 
 <div align="center">
 
-![Snake animation](https://github.com/Ansellino/Ansellino/blob/output/github-contribution-grid-snake.svg)
+```typescript
+// 🎯 Let's Get to Know Each Other!
+interface Developer {
+  name: string;
+  title: string;
+  education: string;
+  passions: string[];
+  dailyMotto: string;
+}
+
+const ansellino: Developer = {
+  name: "Ansellino",
+  title: "Full-Stack Developer & DevOps Enthusiast",
+  education: "✨ Master's Graduate in Information Technology",
+  passions: [
+    "🌐 Web Development",
+    "🧩 Problem Solving",
+    "🚀 DevOps Engineering",
+    "🔧 System Architecture",
+  ],
+  dailyMotto: "Building tomorrow's solutions, one line at a time 💻",
+};
+
+// Fun fact: I write code and drink coffee ☕
+```
 
 </div>
 
