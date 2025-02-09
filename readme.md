@@ -15,7 +15,7 @@ _Crafting digital solutions with passion and precision_
 
 </div>
 
-<div align="center">
+<div align="left">
 
 ```typescript
 // 🎯 Let's Get to Know Each Other!
