@@ -9,8 +9,11 @@
 
 <div align="center">
   
-### `Hello World! I'm Ansellino` 👋
-*Crafting digital solutions with passion and precision*
+### <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=7957D5&center=true&vCenter=true&width=435&lines=Hello+World!+I'm+Ansellino+👋;Welcome+to+my+Digital+Space!" alt="Typing SVG"/>
+
+_Crafting digital solutions with passion and precision_
+
+[![Spotify](https://novatorem-kyzbk7wxl-bardiesel.vercel.app/api/spotify)](https://open.spotify.com/user/31gms3hlihdvvu6bwlnvzpqqa5ju)
 
 </div>
 
@@ -31,6 +34,12 @@ const me: Developer = {
   motto: "Code. Create. Innovate.",
 };
 ```
+
+<div align="center">
+
+![Snake animation](https://github.com/Ansellino/Ansellino/blob/output/github-contribution-grid-snake.svg)
+
+</div>
 
 ## 🎯 Current Focus
 
