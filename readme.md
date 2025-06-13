@@ -30,17 +30,23 @@ I'm an IT Programmer with a Master's degree in Computer Science from Bina Nusant
 <summary><b>View My Work Experience</b></summary>
 
 #### **Toko Crypto** | Freelance Analyst
-*April 2025 - June 2025*
+
+_April 2025 - June 2025_
+
 - Quality Check data customer KYC
 
 #### **PRASUNET COMPANY** | Full Stack Developer (Internship)
-*March 2025 - April 2025*
+
+_March 2025 - April 2025_
+
 - Developed Hospital Management System using React, TypeScript, and Material-UI
 - Built RESTful API endpoints and database integration
 - Implemented authentication with role-based access control
 
 #### **UMNGrove** | Full Stack Developer (Freelance)
-*October 2024 - March 2025*
+
+_October 2024 - March 2025_
+
 - Developed Lembur Mangrove Patikang website v2.0.0
 - Tech Stack: Laravel 11, Filament v.3, TALL Stack (Tailwind, Alpine.js, Livewire, Laravel)
 
@@ -49,6 +55,7 @@ I'm an IT Programmer with a Master's degree in Computer Science from Bina Nusant
 ## 🛠️ Tech Stack
 
 ### Languages & Frameworks
+
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
@@ -58,18 +65,21 @@ I'm an IT Programmer with a Master's degree in Computer Science from Bina Nusant
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 ### Frontend Development
+
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Material-UI](https://img.shields.io/badge/Material--UI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
 ![Alpine.js](https://img.shields.io/badge/alpinejs-white.svg?style=for-the-badge&logo=alpinedotjs&logoColor=%238BC0D0)
 
 ### Backend & Database
+
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### Cloud & DevOps
+
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
@@ -91,15 +101,18 @@ I'm an IT Programmer with a Master's degree in Computer Science from Bina Nusant
 <summary><b>View My Certifications (40+)</b></summary>
 
 ### 🏆 GitHub Trophies
+
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Ansellino&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&margin-h=4" alt="GitHub Trophy" />
 </div>
 
 ### 🎓 Education
+
 - **Master's Degree** in Computer Science - Bina Nusantara University (GPA: 3.67/4.00)
 - **Bachelor's Degree** in Computer Science - Bina Nusantara University (GPA: 3.30/4.00)
 
 ### 📜 Notable Certifications
+
 - **Google Cloud Platform**: 10+ certifications including Associate Cloud Engineer preparation
 - **Google IT Support & Automation**: Professional certificates
 - **Full Stack Development**: Complete bootcamps from Udemy
@@ -107,6 +120,7 @@ I'm an IT Programmer with a Master's degree in Computer Science from Bina Nusant
 - **Alibaba Cloud**: Certified Associate in Cloud Computing
 
 ### 🏅 Achievements
+
 - Completed 40+ industry certifications
 - Top 50 Team in Bangkit Academy Capstone Project
 - AIESEC Future Leaders Delegate
@@ -119,21 +133,25 @@ I'm an IT Programmer with a Master's degree in Computer Science from Bina Nusant
 <summary><b>Featured Projects</b></summary>
 
 ### 🏥 Hospital Management System
+
 - **Tech Stack**: React, TypeScript, Material-UI, RESTful API
 - **Features**: Patient registration, appointment scheduling, medical records, billing system
 - **Role**: Full Stack Developer
 
 ### 🌿 Lembur Mangrove Patikang Website
+
 - **Tech Stack**: Laravel 11, Filament v.3, TALL Stack
 - **Features**: Environmental conservation platform with dynamic UI/UX
 - **Role**: Lead Developer (2-member team)
 
 ### 📱 Daya Mobile Application
+
 - **Tech Stack**: Google Cloud Platform, Android
 - **Features**: Indonesian cultural heritage exploration app
 - **Achievement**: Top 50 in Bangkit Academy Capstone Project
 
 ### 🛒 PASARJB E-commerce Platform
+
 - **Tech Stack**: Laravel 9, MySQL
 - **Duration**: 2018-2023
 - **Role**: Founder & Full Stack Developer
@@ -158,6 +176,7 @@ I'm an IT Programmer with a Master's degree in Computer Science from Bina Nusant
 </div>
 
 ---
+
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Ansellino&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
   <p>
