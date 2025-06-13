@@ -162,7 +162,18 @@ I'm an IT Programmer with a Master's degree in Computer Science from Bina Nusant
   </p>
 </div>
 
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Ansellino&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <p>
+    <i>Happy coding! Let's build something amazing together! 🚀</i>
+  </p>
+</div>
+
 <!-- Snake animation -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ansellino/Ansellino/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ansellino/Ansellino/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Ansellino/Ansellino/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
