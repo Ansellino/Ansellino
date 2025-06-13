@@ -1,110 +1,168 @@
+# Hi there, I'm Jeremy Ansellino Gunawan! 👋
+
 <div align="center">
-
-# 🌟 Welcome to My Digital Workshop
-
-[![GitHub followers](https://img.shields.io/github/followers/Ansellino?style=social)](https://github.com/Ansellino)
-[![Profile Views](https://komarev.com/ghpvc/?username=Ansellino&color=blueviolet&style=flat-square)](https://github.com/Ansellino)
-
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Cloud+Computing+Enthusiast;Lifelong+Learner;40%2B+Certifications" alt="Typing SVG" />
 </div>
 
 <div align="center">
   
-### <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=7957D5&center=true&vCenter=true&width=435&lines=Hello+World!+I'm+Ansellino+👋;Welcome+to+my+Digital+Space!" alt="Typing SVG"/>
-
-_Crafting digital solutions with passion and precision_
-
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeremy-ansellino-gunawan/)
+  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ansellino@gmail.com)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://github.com/ansellino)
+  
 </div>
 
-<div align="left">
+## 🚀 About Me
 
-```typescript
-// 🎯 Let's Get to Know Each Other!
-interface Developer {
-  name: string;
-  title: string;
-  education: string;
-  passions: string[];
-  dailyMotto: string;
-}
+I'm an IT Programmer with a Master's degree in Computer Science from Bina Nusantara University. I'm passionate about building scalable applications, exploring cloud technologies, and continuously learning new skills. With hands-on experience in full-stack development and a strong foundation in cloud computing (GCP), I've successfully delivered multiple end-to-end projects including ERP systems, mobile applications, and e-commerce platforms.
 
-const ansellino: Developer = {
-  name: "Ansellino",
-  title: "Full-Stack Developer & DevOps Enthusiast",
-  education: "✨ Master's Graduate in Information Technology",
-  passions: [
-    "🌐 Web Development",
-    "🧩 Problem Solving",
-    "🚀 DevOps Engineering",
-    "🔧 System Architecture",
-  ],
-  dailyMotto: "Building tomorrow's solutions, one line at a time 💻",
-};
+- 🔭 Currently working as a **Freelance Full Stack Developer**
+- 🌱 Always learning and expanding my skill set (40+ certifications and counting!)
+- 💡 Strong believer in lifelong learning and staying updated with the latest technologies
+- 🎯 Goal: Contributing immediate value while continuously evolving skills to meet tomorrow's technological challenges
+- 📍 Based in Tangerang, Banten, Indonesia
 
-// Fun fact: I write code and drink coffee ☕
-```
+## 💼 Recent Experience
 
+### 🏢 Professional Journey
+
+<details>
+<summary><b>View My Work Experience</b></summary>
+
+#### **Toko Crypto** | Freelance Analyst
+*April 2025 - June 2025*
+- Quality Check data customer KYC
+
+#### **PRASUNET COMPANY** | Full Stack Developer (Internship)
+*March 2025 - April 2025*
+- Developed Hospital Management System using React, TypeScript, and Material-UI
+- Built RESTful API endpoints and database integration
+- Implemented authentication with role-based access control
+
+#### **UMNGrove** | Full Stack Developer (Freelance)
+*October 2024 - March 2025*
+- Developed Lembur Mangrove Patikang website v2.0.0
+- Tech Stack: Laravel 11, Filament v.3, TALL Stack (Tailwind, Alpine.js, Livewire, Laravel)
+
+</details>
+
+## 🛠️ Tech Stack
+
+### Languages & Frameworks
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+### Frontend Development
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Material-UI](https://img.shields.io/badge/Material--UI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
+![Alpine.js](https://img.shields.io/badge/alpinejs-white.svg?style=for-the-badge&logo=alpinedotjs&logoColor=%238BC0D0)
+
+### Backend & Database
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Cloud & DevOps
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ansellino&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ansellino&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180em" />
 </div>
 
-## 🎯 Current Focus
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ansellino&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
+
+## 🏆 Certifications & Achievements
+
+<details>
+<summary><b>View My Certifications (40+)</b></summary>
+
+### 🎓 Education
+- **Master's Degree** in Computer Science - Bina Nusantara University (GPA: 3.67/4.00)
+- **Bachelor's Degree** in Computer Science - Bina Nusantara University (GPA: 3.30/4.00)
+
+### 📜 Notable Certifications
+- **Google Cloud Platform**: 10+ certifications including Associate Cloud Engineer preparation
+- **Google IT Support & Automation**: Professional certificates
+- **Full Stack Development**: Complete bootcamps from Udemy
+- **Bangkit Academy 2021**: Cloud Computing Learning Path (Top 50 Capstone Project)
+- **Alibaba Cloud**: Certified Associate in Cloud Computing
+
+### 🏅 Achievements
+- Completed 40+ industry certifications
+- Top 50 Team in Bangkit Academy Capstone Project
+- AIESEC Future Leaders Delegate
+
+</details>
+
+## 📈 Projects
+
+<details>
+<summary><b>Featured Projects</b></summary>
+
+### 🏥 Hospital Management System
+- **Tech Stack**: React, TypeScript, Material-UI, RESTful API
+- **Features**: Patient registration, appointment scheduling, medical records, billing system
+- **Role**: Full Stack Developer
+
+### 🌿 Lembur Mangrove Patikang Website
+- **Tech Stack**: Laravel 11, Filament v.3, TALL Stack
+- **Features**: Environmental conservation platform with dynamic UI/UX
+- **Role**: Lead Developer (2-member team)
+
+### 📱 Daya Mobile Application
+- **Tech Stack**: Google Cloud Platform, Android
+- **Features**: Indonesian cultural heritage exploration app
+- **Achievement**: Top 50 in Bangkit Academy Capstone Project
+
+### 🛒 PASARJB E-commerce Platform
+- **Tech Stack**: Laravel 9, MySQL
+- **Duration**: 2018-2023
+- **Role**: Founder & Full Stack Developer
+
+</details>
+
+## 🌱 Current Focus
+
+- 🔍 Exploring advanced cloud architectures and microservices
+- 📚 Deepening knowledge in AI/ML and data analytics
+- 🛠️ Building scalable and efficient full-stack applications
+- 🤝 Open to collaborating on innovative projects
+
+## 📫 How to Reach Me
 
 <div align="center">
   
-| 💻 Development | 🛠 Tools | 📚 Learning |
-|---------------|----------|-------------|
-| Full-Stack Web | DevOps | New Technologies |
-| API Design | Cloud Solutions | System Architecture |
-| UI/UX | Automation | Best Practices |
-
+  [![Email](https://img.shields.io/badge/Email-ansellino@gmail.com-red?style=flat-square&logo=gmail)](mailto:ansellino@gmail.com)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Jeremy_Ansellino_Gunawan-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/jeremy-ansellino-gunawan/)
+  [![Phone](https://img.shields.io/badge/Phone-+62_812_2957_4140-green?style=flat-square&logo=whatsapp)](https://wa.me/6281229574140)
+  
 </div>
 
-## 🚀 Tech Stack
+---
 
 <div align="center">
-
-#### Frontend Artistry
-
-![HTML](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-
-#### Backend Power
-
-![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
-
-#### Data Management
-
-![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%234169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-
-#### DevOps Arsenal
-
-![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-
+  <img src="https://komarev.com/ghpvc/?username=ansellino&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  
+  <p>
+    <i>Happy coding! Let's build something amazing together! 🚀</i>
+  </p>
 </div>
 
-## 📊 GitHub Analytics
-
+<!-- Snake animation -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ansellino&show_icons=true&theme=tokyonight" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ansellino&theme=tokyonight" height="180"/>
-</div>
-
-## 🤝 Connect & Collaborate
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/jeremy-ansellino-gunawan/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://www.youtube.com/@ANSELZORRO"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white"/></a>
-  <a href="https://www.instagram.com/jeansellino/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="mailto:ansellino@gmail.com"><img src="https://img.shields.io/badge/Email-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</div>
-
-<div align="center">
-
-```bash
-echo "Thank you for exploring my digital space! Let's create something extraordinary together. 🚀"
-```
-
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
