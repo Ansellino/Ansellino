@@ -82,7 +82,7 @@ I'm an IT Programmer with a Master's degree in Computer Science from Bina Nusant
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ansellino&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ansellino&theme=tokyonight" height="180"/>
 </div>
 
 ## 🏆 Certifications & Achievements
