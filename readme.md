@@ -87,6 +87,10 @@ I'm an IT Programmer with a Master's degree in Computer Science from Bina Nusant
 
 ## 🏆 Certifications & Achievements
 
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Ansellino&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&margin-h=4" alt="GitHub Trophy" />
+</div>
+
 <details>
 <summary><b>View My Certifications (40+)</b></summary>
 
