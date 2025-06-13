@@ -157,15 +157,6 @@ I'm an IT Programmer with a Master's degree in Computer Science from Bina Nusant
 </div>
 
 ---
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ansellino&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-  
-  <p>
-    <i>Happy coding! Let's build something amazing together! 🚀</i>
-  </p>
-</div>
-
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Ansellino&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
   <p>
