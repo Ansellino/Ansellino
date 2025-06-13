@@ -87,12 +87,13 @@ I'm an IT Programmer with a Master's degree in Computer Science from Bina Nusant
 
 ## 🏆 Certifications & Achievements
 
+<details>
+<summary><b>View My Certifications (40+)</b></summary>
+
+### 🏆 GitHub Trophies
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Ansellino&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&margin-h=4" alt="GitHub Trophy" />
 </div>
-
-<details>
-<summary><b>View My Certifications (40+)</b></summary>
 
 ### 🎓 Education
 - **Master's Degree** in Computer Science - Bina Nusantara University (GPA: 3.67/4.00)
