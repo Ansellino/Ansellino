@@ -152,7 +152,7 @@ _October 2024 - March 2025_
 
 ### 🛒 PASARJB E-commerce Platform
 
-- **Tech Stack**: Laravel 9, MySQL
+- **Tech Stack**: Laravel 9, MySQL, Blade Tamplate
 - **Duration**: 2018-2023
 - **Role**: Founder & Full Stack Developer
 
